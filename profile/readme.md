@@ -13,7 +13,10 @@ Welcome! Let's go straight to the challenge.
 
 ✅ Here's your list of **TASKS**:
 
-- Label consistently *all* the instruments in the dataset.
+- Label consistently *all* the instruments in the dataset.🏁 Be sure to look up, as we will have an automatically-update live leaderboard!
+
+￼
+
 - Play the "unknown.mod" song.
 - The song is famous! What's the title?
 - Generate *new* sounds and use them to play the song.
@@ -33,7 +36,7 @@ You can address the tasks in any order you prefer.
 
 [Here](https://github.com/ML-MSAI-2024-hackathon/audio-processing-starter-kit) you can find a primer notebook on audio processing.
 
-Make sure to understand everything, as the functions described in it may come in handy during the hackathon
+Make sure to understand everything, as the functions described in it may come in handy during the hackathon.
 
 ## 🗃️ Getting started with data
 
@@ -43,4 +46,4 @@ Make sure to understand everything, as the functions described in it may come in
 
 You can now start working on the hackathon!
 
-🏁 Be sure to look up, as we will have an automatically-update live leaderboard! 
+🏁 Be sure to look up, as we will have an live leaderboard! 
