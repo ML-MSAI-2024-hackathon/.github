@@ -31,11 +31,13 @@ You can address the tasks in any order you prefer.
 
 ## 🔊 Getting started with audio processing
 
+[Here](https://github.com/ML-MSAI-2024-hackathon/audio-processing-starter-kit) you can find a primer notebook on audio processing.
+
+Make sure to understand everything, as the functions described in it may come in handy during the hackathon
+
 ## 🗃️ Getting started with data
 
-- ☁️ If you are working on Google Colab:
-
-- 💻 If you are working on your local machine:
+[Here](https://github.com/ML-MSAI-2024-hackathon/data-starter-kit) you can find all information regarding the data that you will need to use in the hackathon.
 
 ## 🚀 Up to you now!
 
