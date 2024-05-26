@@ -20,13 +20,13 @@ Welcome! Let's go straight to the challenge.
 
 You can address the tasks in any order you prefer.
 
-📄 Submit a brief one-page **REPORT** (don't overdo it!) of your best submission before 23:59 of Wed 29th.
+📄 Submit a brief one-page **REPORT** (don't overdo it!) of your best submission **before 23:59 of Wed 29th** via email to Prof. Rodolà.
 
 📈 Metrics and **SCORING**:
 
 - 🏷️ You'll get points depending on your labeling accuracy.
-- 🎶 You'll get +0.25 if you play the song at least once.
-- 🤩 You'll get +1 if you guess correctly the song title.
+- 🎶 You'll get +0.25 points if you play the song at least once.
+- 🤩 You'll get +1 point if you guess correctly the song title.
 - 🎧 You'll get points depending on how we like your song with new sounds.
 
 ## 🔊 Getting started with audio processing
