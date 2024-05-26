@@ -28,3 +28,17 @@ You can address the tasks in any order you prefer.
 - 🎶 You'll get +0.25 if you play the song at least once.
 - 🤩 You'll get +1 if you guess correctly the song title.
 - 🎧 You'll get points depending on how we like your song with new sounds.
+
+## 🔊 Getting started with audio processing
+
+## 🗃️ Getting started with data
+
+- ☁️ If you are working on Google Colab:
+
+- 💻 If you are working on your local machine:
+
+## 🚀 Up to you now!
+
+You can now start working on the hackathon!
+
+🏁 Be sure to look up, as we will have an automatically-update live leaderboard! 
