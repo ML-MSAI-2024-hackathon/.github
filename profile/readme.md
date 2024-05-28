@@ -21,7 +21,9 @@ Welcome! Let's go straight to the challenge.
 
 You can address the tasks in any order you prefer.
 
-📄 Submit a brief one-page **REPORT** (don't overdo it!) of your best submission **before 23:59 of Wed 29th** via email to Prof. Rodolà.
+## Submission
+
+📄 Submit a brief one-page **REPORT** (don't overdo it!) of your best submission **before June 2nd 2024 at 23:59** via email to Prof. Rodolà.
 
 📈 Metrics and **SCORING**:
 
