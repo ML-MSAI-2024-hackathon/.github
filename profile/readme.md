@@ -21,11 +21,11 @@ Welcome! Let's go straight to the challenge.
 
 You can address the tasks in any order you prefer.
 
-## Submission
+## 📩 Submission
 
 📄 Submit a brief one-page **REPORT** (don't overdo it!) of your best submission **before June 2nd 2024 at 23:59** via email to Prof. Rodolà.
 
-📈 Metrics and **SCORING**:
+## 📈 Metrics and SCORING
 
 - 🏷️ You'll get points depending on your labeling accuracy.
 - 🎶 You'll get +0.25 points if you play the song at least once.
